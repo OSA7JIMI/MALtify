@@ -1,0 +1,32 @@
+Future Upgrades:
+
+0. Fix bug: set query = title + ' by ' + nickname
+and do string matching with result to get correct song
+1. Add: retrieve recently completed anime by sorting by date 
+instead of repeating the process for the whole list again
+2. Improve: filter the Japanese song titles into a seperate column 
+in songs_df
+3. Add: OSTs
+4. Improve: auto refresh access token
+5. Automatically update Spotify playlist whenever a new anime 
+is marked as completed (or periodically e.g. weekly if the first 
+one requires too much energy)
+6. Add: frontend website hosted on local server with fields to 
+enter MAL username, Spotify username, and desired playlist name.
+So that the code can all be executed by pressing one button
+
+Instructions:
+
+Command Prompt:
+1. cd OneDrive\Desktop\MALtify
+2. node mal_auth.js
+3. Open new cmd window
+4. 1.
+5. node spotify_auth.js
+
+Anaconda Prompt:
+1. jupyter notebook
+
+Jupyter:
+1. Open MAL_song_data to get anime list and song list
+2. Open Spotify_playlist to create playlist based on song list
