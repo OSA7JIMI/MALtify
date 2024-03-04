@@ -17,6 +17,9 @@ So that the code can all be executed by pressing one button
 
 Instructions:
 
+To obtain your own API keys from MAL and Spotify:
+
+
 Command Prompt:
 1. cd OneDrive\Desktop\MALtify
 2. node mal_auth.js
