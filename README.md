@@ -1,6 +1,6 @@
-# MALtify (currently under development)
+# MALtify (repo currently under development)
 
-## MALtify is an app that helps users to quickly create a Spotify playlist that contains all songs from the animes that they have watched and recorded on the MyAnimeList (MAL) website
+## MALtify is an app that helps users quickly create a Spotify playlist that contains all songs from the animes that they have watched and recorded on the MyAnimeList (MAL) website
 
 ### Tasks before release
 1. Update to specifications in instructions.txt
